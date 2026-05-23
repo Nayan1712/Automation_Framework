@@ -1,0 +1,65 @@
+00:35:12.346 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+00:35:16.844 [main] INFO  testCases.LoginTest - Clicked on Login link button
+00:35:20.489 [main] INFO  testCases.LoginTest - Clicked on Login button
+00:35:20.520 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+00:36:28.891 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\grouping.xml
+
+00:36:34.545 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+00:36:35.838 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+00:36:36.980 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+00:36:36.986 [main] INFO  testCases.SignUpTest - Entering all the user details....
+00:37:24.294 [main] INFO  testCases.SignUpTest - Test Passed.....
+00:37:28.742 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+00:37:31.987 [main] INFO  testCases.LoginTest - Clicked on Login link button
+00:37:33.035 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:00:19.339 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:00:20.642 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:00:22.435 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:00:22.440 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:00:30.294 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:00:35.944 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:00:37.232 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:00:37.612 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:00:43.595 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+01:02:28.371 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\grouping.xml
+
+01:02:33.506 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:02:40.307 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:02:42.626 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:02:42.635 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:02:50.299 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:02:55.299 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:02:58.316 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:03:02.190 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:07:56.121 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:07:57.373 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:08:00.413 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:08:00.420 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:08:05.815 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:08:10.044 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:08:13.117 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:08:16.410 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:09:31.447 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:09:32.647 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:09:33.362 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:09:36.283 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+01:10:55.288 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:10:58.664 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:11:00.132 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:11:00.138 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:11:06.729 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:11:13.011 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:11:14.210 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:11:14.726 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:11:20.381 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+01:16:13.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\grouping.xml
+
+01:16:18.444 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:16:22.562 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:16:27.699 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:16:27.704 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:16:38.011 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:16:43.676 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************

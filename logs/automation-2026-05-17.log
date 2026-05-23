@@ -1,0 +1,69 @@
+02:20:18.892 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:20:18.912 [main] INFO  testCases.SignUpTest - Entering all the user details....
+02:20:27.280 [main] INFO  testCases.SignUpTest - Test Passed.....
+00:52:24.794 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+00:52:26.073 [main] INFO  testCases.LoginTest - Clicked on Login link button
+00:52:30.485 [main] INFO  testCases.LoginTest - Clicked on Login button
+00:52:30.542 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+00:55:47.207 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+00:55:55.612 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+00:56:01.493 [main] INFO  testCases.LoginTest - Clicked on Login link button
+00:56:10.163 [main] INFO  testCases.LoginTest - Clicked on Login button
+00:56:10.214 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+02:13:43.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:15:04.455 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:18:25.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:21:29.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:21:39.483 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:21:43.389 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:21:44.851 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:21:47.376 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:21:49.080 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:21:50.626 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:21:55.273 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:21:58.299 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:22:00.763 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:22:04.982 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:22:06.778 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:22:08.252 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:22:08.509 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:22:21.021 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Passed ***************
+02:25:08.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:25:17.328 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:25:20.726 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:25:22.101 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:25:23.316 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:25:34.637 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:25:38.268 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Passed ***************
+02:26:48.858 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:26:57.040 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:27:02.278 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:27:08.745 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:27:10.217 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Passed ***************
+02:27:10.217 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:27:54.810 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:27:59.142 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:28:01.943 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Passed ***************
+02:28:55.599 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+02:29:03.046 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:29:06.861 [main] INFO  testCases.LoginDDT - Clicked on Login link button
+02:29:11.097 [main] INFO  testCases.LoginDDT - Clicked on Login button
+02:29:56.361 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Passed ***************
+02:29:56.374 [main] INFO  testCases.LoginDDT - ************* LoginDDT Test Starting ***************
+02:30:00.183 [main] INFO  testCases.LoginDDT - Clicked on Login link button

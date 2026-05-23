@@ -1,0 +1,28 @@
+02:12:43.906 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:12:43.966 [TestNG-tests-1] INFO  testCases.SignUpTest - Entering all the user details....
+02:12:53.422 [TestNG-tests-1] INFO  testCases.SignUpTest - Test Passed.....
+02:13:05.029 [TestNG-tests-1] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+02:13:10.539 [TestNG-tests-1] INFO  testCases.LoginTest - Clicked on Login link button
+02:13:17.128 [TestNG-tests-1] INFO  testCases.LoginTest - Clicked on Login button
+02:13:17.259 [TestNG-tests-1] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+02:14:41.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:15:02.562 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:15:06.721 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:15:08.864 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:15:08.875 [TestNG-tests-2] INFO  testCases.SignUpTest - Entering all the user details....
+02:15:24.070 [TestNG-tests-2] INFO  testCases.SignUpTest - Test Passed.....
+02:15:48.022 [TestNG-tests-2] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+02:15:52.480 [TestNG-tests-2] INFO  testCases.LoginTest - Clicked on Login link button
+02:15:57.831 [TestNG-tests-2] INFO  testCases.LoginTest - Clicked on Login button
+02:15:57.920 [TestNG-tests-2] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+02:27:38.016 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:27:54.279 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:28:00.795 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:28:39.432 [TestNG-tests-1] ERROR testCases.SignUpTest - Test Failed
+02:28:39.699 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:28:44.092 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:28:46.227 [TestNG-tests-2] ERROR testCases.SignUpTest - Test Failed

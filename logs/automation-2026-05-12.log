@@ -1,0 +1,61 @@
+01:27:29.435 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:27:33.183 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:27:34.676 [main] ERROR testCases.SignUpTest - Test Failes
+01:28:35.430 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:28:37.533 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:28:38.904 [main] ERROR testCases.SignUpTest - Test Failed
+01:28:57.564 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:28:59.856 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:29:01.356 [main] ERROR testCases.SignUpTest - Test Failed
+01:30:15.934 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:30:18.442 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:30:19.840 [main] ERROR testCases.SignUpTest - Test Failed
+01:30:19.840 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:31:02.908 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:31:04.069 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:31:05.992 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:31:05.997 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:31:12.223 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:31:43.252 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:31:45.964 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:31:47.308 [main] ERROR testCases.SignUpTest - Test Failed
+01:32:01.168 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:32:03.252 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:32:04.658 [main] ERROR testCases.SignUpTest - Test Failed
+01:33:27.063 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:33:32.712 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:33:35.764 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:33:35.766 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:33:43.537 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:51:54.595 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:51:58.334 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:52:03.268 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:52:03.276 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:52:09.688 [main] INFO  testCases.SignUpTest - Test Passed.....
+02:03:20.346 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:03:24.376 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:03:28.810 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:03:28.818 [main] INFO  testCases.SignUpTest - Entering all the user details....
+02:03:38.024 [main] INFO  testCases.SignUpTest - Test Passed.....
+02:06:24.134 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:06:28.015 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:06:29.896 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:06:29.907 [main] INFO  testCases.SignUpTest - Entering all the user details....
+02:06:37.281 [main] INFO  testCases.SignUpTest - Test Passed.....
+02:06:58.527 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:07:05.734 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:07:10.028 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:07:10.030 [main] INFO  testCases.SignUpTest - Entering all the user details....
+02:07:17.026 [main] INFO  testCases.SignUpTest - Test Passed.....
+02:10:32.989 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:10:33.309 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:10:37.305 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:10:38.007 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:10:39.127 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:10:39.142 [TestNG-tests-2] INFO  testCases.SignUpTest - Entering all the user details....
+02:10:42.309 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:10:42.316 [TestNG-tests-1] INFO  testCases.SignUpTest - Entering all the user details....
+02:10:51.295 [TestNG-tests-2] INFO  testCases.SignUpTest - Test Passed.....
+02:10:54.160 [TestNG-tests-1] INFO  testCases.SignUpTest - Test Passed.....
+02:20:10.907 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:20:14.771 [main] INFO  testCases.SignUpTest - Clicked on SignUp button

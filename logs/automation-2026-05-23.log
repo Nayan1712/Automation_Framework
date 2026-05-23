@@ -1,0 +1,70 @@
+01:16:44.972 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:16:48.486 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:16:48.564 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+01:28:19.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+01:30:57.351 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+01:31:10.278 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:31:14.803 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:31:17.183 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:31:17.195 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:31:28.945 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:32:15.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parametertestng.xml
+
+01:32:23.586 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:32:25.060 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:32:26.882 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:32:26.890 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:32:33.976 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:33:14.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\parallelTest.xml
+
+01:33:22.362 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:33:23.707 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:33:26.779 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:33:26.793 [TestNG-tests-1] INFO  testCases.SignUpTest - Entering all the user details....
+01:33:36.586 [TestNG-tests-1] INFO  testCases.SignUpTest - Test Passed.....
+01:34:19.495 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:34:21.560 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:34:23.090 [TestNG-tests-2] ERROR testCases.SignUpTest - Test Failed
+01:01:35.115 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:01:36.839 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:01:39.111 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:01:39.134 [main] INFO  testCases.SignUpTest - Entering all the user details....
+01:01:48.077 [main] INFO  testCases.SignUpTest - Test Passed.....
+01:05:15.533 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:05:19.819 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:05:21.479 [main] ERROR testCases.SignUpTest - Test Failed
+01:05:29.954 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:05:33.449 [main] INFO  testCases.LoginTest - Clicked on Login link button
+01:05:36.905 [main] INFO  testCases.LoginTest - Clicked on Login button
+01:05:36.983 [main] INFO  testCases.LoginTest - ************* Login Test Passed ***************
+01:21:36.023 [main] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+01:21:38.475 [main] INFO  testCases.SignUpTest - Clicked on SignUp button
+01:21:41.466 [main] ERROR testCases.SignUpTest - Test Failed
+01:21:49.443 [main] INFO  testCases.LoginTest - ************* Login Test Starting ***************
+01:21:53.031 [main] INFO  testCases.LoginTest - Clicked on Login link button
+02:00:45.872 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:00:46.463 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:00:46.517 [TestNG-tests-2] ERROR testCases.SignUpTest - Test Failed
+02:06:05.470 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:06:05.902 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:06:05.926 [TestNG-tests-1] ERROR testCases.SignUpTest - Test Failed
+02:11:03.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:11:03.528 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:11:03.570 [TestNG-tests-1] ERROR testCases.SignUpTest - Test Failed
+02:12:11.970 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:12:38.466 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:12:41.500 [TestNG-tests-1] INFO  testCases.SignUpTest - Clicked on SignUp button
