@@ -26,3 +26,11 @@
 02:28:39.699 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
 02:28:44.092 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
 02:28:46.227 [TestNG-tests-2] ERROR testCases.SignUpTest - Test Failed
+02:31:23.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\nayan\IdeaProjects\Automation_Framework\docker-grid.xml
+
+02:31:45.415 [TestNG-tests-1] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:31:45.415 [TestNG-tests-2] INFO  testCases.SignUpTest - ************ Account SignUp Starting **************
+02:31:52.704 [TestNG-tests-2] INFO  testCases.SignUpTest - Clicked on SignUp button
+02:31:52.819 [TestNG-tests-1] ERROR testCases.SignUpTest - Test Failed
+02:32:02.647 [TestNG-tests-2] ERROR testCases.SignUpTest - Test Failed
